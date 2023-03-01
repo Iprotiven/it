@@ -68,3 +68,7 @@ h2 {
   margin-top: 40px;
   color: #626262;
 }
+ul li {
+  display: inline;
+  list-style-type: none;
+}
